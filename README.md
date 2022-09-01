@@ -1,1 +1,1 @@
-This file contains basic shell commands 
+shell permissions
