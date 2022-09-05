@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type d,f -empty | cut -d " " -f 9
+find ./ -type d,f -empty | cut -d " " -f 9 | ls -la
