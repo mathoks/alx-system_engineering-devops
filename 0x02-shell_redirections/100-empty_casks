@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f,d  -empty | ls -la  |cut -d " " -f 13
+find . -type f,d  -empty | cut -d " " -f 13 | cut -b 3-
